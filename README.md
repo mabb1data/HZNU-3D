@@ -1,7 +1,6 @@
 # HZNU-3D Dataset
 
 
-
 ## 📚 Dataset Introduction
 
 HZNU-3D is a large-scale, high-density campus Airborne Laser Scanning (ALS) point cloud dataset designed for remote sensing point cloud semantic segmentation research.
@@ -30,7 +29,7 @@ HZNU-3D is a large-scale, high-density campus Airborne Laser Scanning (ALS) poin
 
 The dataset has been uploaded to Baidu Netdisk:
 
-- **Download Link**: [the url willcomming soon]
+- **Download Link**: [the url will comming soon]
 - **Extraction Code**: [comming soon]
 - **File Size**: Approximately 7GB
 
@@ -39,7 +38,26 @@ The dataset has been uploaded to Baidu Netdisk:
 After downloading, extract the dataset. The directory structure is as follows:
 
 ```
+# HZNU-3D Dataset
+
+## Description
+HZNU-3D is a large-scale ALS point cloud dataset for few-shot semantic segmentation.
+
+## File Structure
 HZNU-3D/
 │   ├── HZNU-3D.las/
-│   └── Las classification/          
+│   └── Las classification/ 
+
+## Data Format
+Each LAS file contains:
+- XYZ coordinates
+- RGB attributes
+- Semantic labels
+
+## License
+CC BY-NC 4.0
 ```
+
+## 📄 License
+
+This dataset is released under the CC BY-NC 4.0 license for academic research purposes only.
