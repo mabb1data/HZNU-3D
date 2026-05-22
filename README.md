@@ -29,8 +29,8 @@ HZNU-3D is a large-scale, high-density campus Airborne Laser Scanning (ALS) poin
 
 The dataset has been uploaded to Baidu Netdisk:
 
-- **Download Link**: [the url will comming soon]
-- **Extraction Code**: [comming soon]
+- **Download Link**: [https://pan.baidu.com/s/1WXV4FPGMfN87eKW0R5IDww?pwd=5rux]
+- **Extraction Code**: [5rux]
 - **File Size**: Approximately 7GB
 
 ### File Structure
